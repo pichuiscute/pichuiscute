@@ -2,9 +2,6 @@
 <h1>PII PIKA PII PIKACHU PII PIKAA!</h1>
  <br>
  TRANSLATING........
- <h1>PII PIKA PII PIKACHU PII PIKAA!</h1>
- <br>
- TRANSLATING........
  <h2>Sup what brought you here anyways now that ur here lemme introduce you to my trainer bet u know me already, im pikachu and my trainer is Sam-_-</h2>
 
 <p>
