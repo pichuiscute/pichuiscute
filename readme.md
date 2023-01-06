@@ -1,9 +1,9 @@
  <img src="/sup.gif"
             alt="hi">
-<h1>PII PIKA PII PIKACHU PII PIKAA!
+<h1>PII PIKA PII PIKACHU PII PIKAA!</h1>
  <br>
  TRANSLATING........
- <br>Sup what brought you here anyways now that ur here lemme introduce you to my trainer bet u know me already, im pikachu</h1>
+ <h2><br>Sup what brought you here anyways now that ur here lemme introduce you to my trainer bet u know me already, im pikachu</h2>
     <hr> <h2><b>Btw my trainers name is <i>Sam</i> if u dont know</b>
 </h2>
 
