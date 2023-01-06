@@ -21,5 +21,6 @@
             alt="surprised"> </a> <br>
  <p> 
     <h2>hope ur having a fantastic day</h2>
-<h6>contact me at: · [@Telegram](https://t.me/pichuiscute) · [@GitHub](https://github.com/pichuiscute)
+<h6>contact me at: 
+> [@Telegram](https://t.me/pichuiscute) <br> [@GitHub](https://github.com/pichuiscute)
     </p>
