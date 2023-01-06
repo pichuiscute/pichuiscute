@@ -19,8 +19,7 @@
 <div align="center">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
         <img src="/pikachu.gif"
-            alt="pikachu logo">
-        
-    </a><br>
+            alt="pikachu logo"> </a> <br>
+ <p> 
     <h2>ngl that was my reaction click the pikachu to see the proof</h2>
     </p>
