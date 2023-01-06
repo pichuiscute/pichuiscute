@@ -1,7 +1,7 @@
  <img src="/sup.gif"
             alt="hi">
-<h1> sup what brought you here anyways now that ur here meet im pikachu</h1>
-    <hr> <b>Btw my trainers name is Sam if u dont know</b>
+<h1> sup what brought you here anyways now that ur here lemme introduce you to my trainer bet u know me already, im pikachu</h1>
+    <hr> <h1><b>Btw my trainers name is <i>Sam</i> if u dont know</b>
 </h1>
 
 <p>
