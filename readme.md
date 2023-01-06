@@ -11,7 +11,7 @@
 <p>
 <div align="center">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-        <img src="/pichuiscute/pikachu.gif"
+        <img src="/pikachu.gif"
             alt="pikachu logo">
     </a><br>
     </p>
