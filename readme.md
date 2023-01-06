@@ -1,13 +1,16 @@
  <img src="/sup.gif"
             alt="hi">
-<h1> sup what brought you here anyways now that ur here lemme introduce you to my trainer bet u know me already, im pikachu</h1>
-    <hr> <h1><b>Btw my trainers name is <i>Sam</i> if u dont know</b>
-</h1>
+<h1>PII PIKA PII PIKACHU PII PIKAA!
+ <br>
+ TRANSLATING........
+ <br>Sup what brought you here anyways now that ur here lemme introduce you to my trainer bet u know me already, im pikachu</h1>
+    <hr> <h2><b>Btw my trainers name is <i>Sam</i> if u dont know</b>
+</h2>
 
 <p>
 <p align="center">
-<h2><i>pikachu: PI PIKA PII PIKA PIKA
-    Sam: if u dont know pikachu said he said u sussy baka</i></h2>
+<h3><i>pikachu: PI PIKA PII PIKA PIKA <br>
+    Sam: if u dont know pikachu said he said u sussy baka</i></h3>
 </p>
 <hr>
 <P>
