@@ -1,5 +1,4 @@
- <img src="/sup.gif"
-            alt="hi">
+ <img src="/sup.gif" alt="hi">
 <h1>PII PIKA PII PIKACHU PII PIKAA!</h1>
  <br>
  TRANSLATING........
@@ -18,8 +17,9 @@
 </p>
 <div align="center">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-        <img src="/pikachu.gif"
-            alt="pikachu logo"> </a> <br>
+        <img src="pikachu.gif"
+            alt="surprised"> </a> <br>
  <p> 
-    <h2>ngl that was my reaction click the pikachu to see the proof</h2>
+    <h2>hope ur having a fantastic day</h2>
+<h6>contact me at: · [@Telegram](https://t.me/pichuiscute) · [@GitHub](https://github.com/pichuiscute)
     </p>
