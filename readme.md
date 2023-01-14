@@ -6,7 +6,7 @@
  <h2>Sup what brought you here anyways now that ur here lemme introduce you to my trainer bet u know me already, im pikachu and my trainer is Sam-_-</h2>
     <h2><b>Btw stop stalking my trainers profile else ill have to give u thundershock</b> <br>
 <img src= "https://img.shields.io/badge/trainer-Sam-violet" alt="trainer badge"> <br>
-<img src= "https://img.shields.io/badge/pokemon-pichu-violet" alt="trainer badge">
+<img src= "https://img.shields.io/badge/pokemon-pikachu-violet" alt="trainer badge">
 
 </h2>
 
