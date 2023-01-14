@@ -21,8 +21,8 @@
 </p>
 <div align="center">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-        <img src="https://media.giphy.com/media/dUszCAloOBDlm/giphy.gif"
-            alt="surprised"> </a> <br>
+        <img src="https://media.giphy.com/media/dUszCAloOBDlm/giphy.gif](https://media.giphy.com/media/xX9tcQCgPRmDK/giphy.gif)"
+            alt="hehe"> </a> <br>
  <p> 
     <h2>hope ur having a fantastic day</h2>
 <h6>you can contact me at: <br>
