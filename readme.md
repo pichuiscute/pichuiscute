@@ -25,8 +25,8 @@
             alt="surprised"> </a> <br>
  <p> 
     <h2>hope ur having a fantastic day</h2>
-<h6>contact me at: <br>
+<h6>you can contact me at: <br>
  <a href="https://t.me/pichuiscute" target="_blank">@Telegram</a> <br> 
   <a href="https://github.com/pichuiscute
-" target="_blank">@github</a> <br> 
+" target="_blank">@github</a> <br> <h6> ill try to get back to u if i dont i might be watching anime so wait for an eternity for it to finish ehhe^^
     </p>
