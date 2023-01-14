@@ -21,7 +21,7 @@
 </p>
 <div align="center">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-        <img src="https://media.giphy.com/media/dUszCAloOBDlm/giphy.gif"
+        <img src="https://media.giphy.com/media/xX9tcQCgPRmDK/giphy.gif"
             alt="hehe"> </a> <br>
  <p> 
     <h2>hope ur having a fantastic day</h2>
