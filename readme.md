@@ -4,8 +4,8 @@
  <br>
  TRANSLATING........
  <h2>Sup what brought you here anyways now that ur here lemme introduce you to my trainer bet u know me already, im pikachu and my trainer is Sam-_-</h2>
-    <h2><b>Your at my trainers index</b>
-<img src= "https://img.shields.io/badge/trainer-Sam-violet" alt="trainer badge">
+    <h2><b>Btw stop stalking my trainers profile else ill have to give u thundershock</b>
+<img src= "https://img.shields.io/badge/trainer-Sam-violet" alt="trainer badge"> <br>
 <img src= "https://img.shields.io/badge/pokemon-pichu-violet" alt="trainer badge">
 
 </h2>
@@ -17,7 +17,7 @@
 </p>
 <hr>
 <P>
-    <h3> ANYWAYS contact my trainer to upload any files </h3> 
+    <h3> Yet another Anime weeb^^ btw i love demon slayer and mha hehe^_^.</h3> 
 </p>
 <div align="center">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
