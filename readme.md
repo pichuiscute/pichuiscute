@@ -24,7 +24,7 @@
         <img src="https://media.giphy.com/media/xX9tcQCgPRmDK/giphy.gif"
             alt="hehe"> </a> <br>
  <p> 
-    <h2>BIEEEEE.......v _ v </h2>
+    <h2>what else u want from me now huh? -__- </h2>
 <h6>you can contact me at: <br>
  <a href="https://t.me/pichuiscute" target="_blank">@Telegram</a> <br> 
   <a href="https://github.com/pichuiscute
